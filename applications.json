@@ -1,0 +1,28 @@
+{
+    "applications": [
+      {
+        "name": "Google Chrome",
+        "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "parameters": []
+      },
+      {
+        "name": "Firefox",
+        "path": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+
+        "parameters": []
+      },
+      {
+        "name": "Postman",
+        "path": "C:\\Users\\ANTEC\\AppData\\Local\\Postman\\Postman.exe",
+        "icon": "path/to/postman/icon.ico",
+        "parameters": []
+      },
+      {
+        "name": "MySql",
+        "path": "C:\\Program Files\\MySQL\\MySQL Workbench 8.0\\MySQLWorkbench.exe",
+        "icon": "C:\\Program Files\\MySQL\\MySQL Workbench 8.0\\MySQLWorkbenchDoc.ico",
+        "parameters": []
+      }
+    ]
+  }
+ 
